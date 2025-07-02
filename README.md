@@ -6,3 +6,4 @@ Zama is revolutionizing privacy on blockchain using Fully Homomorphic Encryption
 - Compute on encrypted data
 - Secure smart contracts
 [Learn more about Zama](https://zama.ai)
+![Zama Logo](https://zama.ai/logo.png)
